@@ -2,7 +2,7 @@
 
 把音乐榜单、歌曲走势和播放数据放在一起看。
 
-**[下载最新 APK](https://github.com/braklouis/hit-parade-android/releases/download/v1.0-test.1/HitParade-1.0-android.apk)** · [所有版本](https://github.com/braklouis/hit-parade-android/releases) · [反馈问题](https://github.com/braklouis/hit-parade-android/issues)
+**[下载最新 APK](https://github.com/braklouis/hit-parade-android/releases/download/v1.0.1-test.2/HitParade-1.0.1-android.apk)** · [所有版本](https://github.com/braklouis/hit-parade-android/releases) · [反馈问题](https://github.com/braklouis/hit-parade-android/issues)
 
 ## 能做什么
 
@@ -22,7 +22,7 @@
 2. 打开文件，按 Android 的提示允许当前浏览器或文件管理器安装应用。
 3. 完成安装后打开 Hit Parade。
 
-当前发布的是 **1.0 测试版 APK**，使用调试签名，未做代码压缩。它可覆盖此前使用同一签名安装的测试版。Android 8–9 的繁体中文转换受系统限制，可能显示简体；保存分享卡片到相册需要 Android 10 或以上。
+当前发布的是 **1.0.1 测试版 APK**，使用调试签名，未做代码压缩。它可覆盖此前使用同一签名安装的测试版。Android 8–9 的繁体中文转换受系统限制，可能显示简体；保存分享卡片到相册需要 Android 10 或以上。
 
 每个版本附有 `SHA256SUMS.txt`，可用于核对下载文件完整性。
 
