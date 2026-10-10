@@ -2,7 +2,7 @@
 
 把音乐榜单、歌曲走势和播放数据放在一起看。
 
-**[下载最新 APK](https://github.com/braklouis/hit-parade-android/releases/latest/download/HitParade-1.0-android.apk)** · [所有版本](https://github.com/braklouis/hit-parade-android/releases) · [反馈问题](https://github.com/braklouis/hit-parade-android/issues)
+**[下载最新 APK](https://github.com/braklouis/hit-parade-android/releases/download/v1.0-test.1/HitParade-1.0-android.apk)** · [所有版本](https://github.com/braklouis/hit-parade-android/releases) · [反馈问题](https://github.com/braklouis/hit-parade-android/issues)
 
 ## 能做什么
 
